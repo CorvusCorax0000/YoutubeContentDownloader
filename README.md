@@ -7,3 +7,5 @@ This program is made for educational purposes.
 Please use downloaded content for personal use, offline viewing or academic references only.
 
 Going against the terms of service of YouTube is inadvisable.
+
+For now, this app only works well with downloading audio files. Video files cannot be downloaded with good resolution.
